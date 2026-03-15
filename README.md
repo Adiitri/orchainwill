@@ -39,9 +39,7 @@ This ensures the will remains immutable and accessible without relying on a cent
 
 OrchainWill Smart Contract:
 
-https://stellar.expert/explorer/testnet/contract/orchainwill
-
-*(Replace with actual deployed contract link)*
+https://lab.stellar.org/r/testnet/contract/CDYTUTZHYC4PMBOKEAHSQVUUBDS4O2ELN4SPVWLP6XFYDYXXWPYRL7Y7
 
 ## Future Improvements
 
