@@ -1,0 +1,25 @@
+# Rust's output directory
+target
+
+# Local settings
+.soroban
+.stellar
+
+# Cargo lock file (optional for libraries)
+Cargo.lock
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
