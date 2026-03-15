@@ -41,7 +41,7 @@ OrchainWill Smart Contract:
 
 `https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDYTUTZHYC4PM%25E2%2584%25B9%25EF%25B8%258F;;`
 
-_(Replace with actual deployed contract link)_
+https://lab.stellar.org/r/testnet/contract/CDYTUTZHYC4PMℹ️
 ![alt text](image-1.png)
 
 ## Future Improvements
